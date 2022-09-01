@@ -11,7 +11,7 @@ for example:
 if the whole link is: "https://www.amazon.in/Apple-iPhone-Mini-128GB-Starlight/product-reviews/B09G91Q79X/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
 then, we need to replace "xxxx-->paste Link<--xxxx" with "https://www.amazon.in/Apple-iPhone-Mini-128GB-Starlight/product-reviews/B09G91Q79X/ref=cm_cr_dp_d_show_all_btm"
 -----------------------------------------------
-Step 4: Run the Code
+Step 4: Create a folder "html" on the same path where code exists and Run the Code.
 --------------------
 Step 5:
 	a)check html folder, a excel file would be there named "file.html".
