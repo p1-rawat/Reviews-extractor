@@ -1,7 +1,7 @@
 NOTE: IT'S FOR EXTRACT THE REVIEWS FROM THE AMAZON.
 ---------------------------------------------------
 
-Step 1: open https://www.soax.com and create account.
+Step 1: open https://soax.com and create account.
 soax.com will provide you proxy which will keep changing the IP address and server itself.
 ------------------------------------------------------------------------------------------
 Step 2: Replace the proxy with "xxxx-->paste Proxy<--xxxx" on line no. 10 & 11.
